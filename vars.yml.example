@@ -1,0 +1,5 @@
+repositorio_server_name: 'mirror.home.internal www.mirror.home.internal'
+repositorio_el7: True
+repositorio_el7_epel: True
+repositorio_el6: False
+repositorio_el6_epel: False
